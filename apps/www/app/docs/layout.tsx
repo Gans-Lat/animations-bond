@@ -15,7 +15,7 @@ const DOCS_LAYOUT_PROPS: DocsLayoutProps = {
     tabs: SIDEBAR_TABS,
   },
 
-  githubUrl: 'https://github.com/imskyleen/animate-ui',
+  githubUrl: 'https://github.com/Gans-Lat/animations-bond',
   themeSwitch: {
     component: <ThemeSwitcher />,
   },
