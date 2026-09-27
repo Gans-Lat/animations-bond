@@ -4,21 +4,21 @@
     A fully animated, open-source component distribution built with React, TypeScript, Tailwind CSS, and Motion.
 </p>
 
-<a href="https://github.com/imskyleen/animate-ui/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animate-ui/animate-ui?style=for-the-badge"></a>
+<a href="https://github.com/Gans-Lat/animations-bond/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/animations-bond/animations-bond?style=for-the-badge"></a>
 <a href="https://twitter.com/animate_ui"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/animate_ui?style=for-the-badge&logo=x"></a>
-<a href="https://github.com/imskyleen/animate-ui/blob/main/LICENSE.md"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"></a>
+<a href="https://github.com/Gans-Lat/animations-bond/blob/main/LICENSE.md"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge"></a>
 
 </div>
 
-![hero](https://animate-ui.com/og-image.png)
+![hero](https://animations.bond/og-image.png)
 
 ## Documentation
 
-Visit [animate-ui.com](https://animate-ui.com/docs) to view the documentation.
+Visit [animate-ui.com](https://animations.bond/docs) to view the documentation.
 
 ## Contributing
 
-Visit our [contributing guide](https://github.com/imskyleen/animate-ui/blob/main/CONTRIBUTING.md) to learn how to contribute.
+Visit our [contributing guide](https://github.com/Gans-Lat/animations-bond/blob/main/CONTRIBUTING.md) to learn how to contribute.
 
 ## Code of Conduct
 
@@ -27,7 +27,7 @@ Please read [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) before contributing.
 
 ## License
 
-Licensed under the [MIT license](https://github.com/imskyleen/animate-ui/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/Gans-Lat/animations-bond/blob/main/LICENSE.md).
 
 <br />
 <br />
