@@ -48,7 +48,6 @@ const LogoLockup = ({
         size === 'sm' ? 'text-lg' : 'text-3xl',
       )}
     >
-      Animations
     </span>
   </span>
 );
