@@ -3,7 +3,7 @@ export default function AnimateUIIcon(props: React.SVGProps<SVGSVGElement>) {
     <svg
       role="img"
       fill="currentColor"
-      aria-label=""
+      aria-label="Animations"
       viewBox="0 0 40 40"
       {...props}
     >
