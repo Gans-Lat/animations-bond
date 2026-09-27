@@ -29,7 +29,7 @@ This Code applies within all community spaces—GitHub repositories, issues, pul
 
 ## Reporting
 
-If you experience or witness a violation, please contact the maintainers at **contact@animate-ui.com**. Provide as much detail as possible, including links, screenshots, dates, and context. Reports will be reviewed in good faith and handled as confidentially as possible.
+If you experience or witness a violation, please contact the maintainers at **contact@animations.bond**. Provide as much detail as possible, including links, screenshots, dates, and context. Reports will be reviewed in good faith and handled as confidentially as possible.
 
 We aim to acknowledge every report within **72 hours** and to follow up with next steps or a resolution timeline.
 
