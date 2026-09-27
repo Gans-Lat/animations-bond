@@ -55,12 +55,12 @@ packages
 
 #### 1. Fork the Repository
 
-Click [here](https://github.com/imskyleen/animate-ui/fork) to fork the repository.
+Click [here](https://github.com/Gans-Lat/animations-bond/fork) to fork the repository.
 
 #### 2. Clone your Fork to Your Local Machine
 
 ```bash
-  git clone https://github.com/<YOUR_USERNAME>/animate-ui.git
+  git clone https://github.com/<YOUR_USERNAME>/animations-bond 
 ```
 
 #### 3. Navigate to the Project Directory
