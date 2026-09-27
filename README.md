@@ -10,7 +10,7 @@
 
 </div>
 
-![hero](https://animations.bond/og-image.png)
+![hero](https://github.com/Gans-Lat/animations-bond/blob/main/apps/www/public/og-image.png)
 
 ## Documentation
 
