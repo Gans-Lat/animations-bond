@@ -3,7 +3,6 @@
 import { motion } from 'motion/react';
 
 import { Logo } from '@/components/logo';
-import { cn } from '@workspace/ui/lib/utils';
 import XIcon from '@workspace/ui/components/icons/x-icon';
 import { useIsMobile } from '@workspace/ui/hooks/use-mobile';
 import { ThemeSwitcher } from './animate/theme-switcher';
@@ -33,25 +32,6 @@ const LOGO_WRAPPER_VARIANTS = {
   },
 };
 
-const LogoLockup = ({
-  size,
-  draw,
-}: {
-  size: 'sm' | 'lg' | 'xl';
-  draw?: boolean;
-}) => (
-  <span className="flex items-center gap-2">
-    <Logo size={size} draw={draw} />
-    <span
-      className={cn(
-        'font-semibold tracking-tight text-foreground whitespace-nowrap',
-        size === 'sm' ? 'text-lg' : 'text-3xl',
-      )}
-    >
-    </span>
-  </span>
-);
-
 export const Header = ({ transition }: { transition: boolean }) => {
   const isMobile = useIsMobile();
 
@@ -72,14 +52,14 @@ export const Header = ({ transition }: { transition: boolean }) => {
               top: 32,
             }}
           >
-            <LogoLockup size="sm" />
+            <Logo size="sm" />
           </motion.div>
         ) : (
           <motion.div
             layoutId="logo"
             className="absolute z-110 left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2"
           >
-            <LogoLockup size={isMobile ? 'lg' : 'xl'} draw />
+            <Logo size={isMobile ? 'lg' : 'xl'} draw />
           </motion.div>
         )}
 
