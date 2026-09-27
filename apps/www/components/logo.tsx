@@ -322,7 +322,7 @@ export const Logo = ({
         />
       </motion.svg>
 
-      <span className="sr-only"></span>
+      <span className="sr-only">Animations</span>
     </div>
   );
 };
