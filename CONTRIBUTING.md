@@ -66,7 +66,7 @@ Click [here](https://github.com/Gans-Lat/animations-bond/fork) to fork the repos
 #### 3. Navigate to the Project Directory
 
 ```bash
-cd animate-ui
+cd animations-bond
 ```
 
 #### 4. Create a New Branch for Your Changes
@@ -335,6 +335,6 @@ releaseDate: 2025-XX-XX
 
 ## Ask for Help
 
-If you need any assistance or have questions, please feel free to open a [GitHub issue](https://github.com/imskyleen/animate-ui/issues/new). We are here to help!
+If you need any assistance or have questions, please feel free to open a [GitHub issue](https://github.com/Gans-Lat/animations-bond/issues/new). We are here to help!
 
 Thank you again for your contribution to Animations! We look forward to seeing your improvements and new components.
