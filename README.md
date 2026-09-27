@@ -14,7 +14,7 @@
 
 ## Documentation
 
-Visit [animate-ui.com](https://animations.bond/docs) to view the documentation.
+Visit [animations.bond](https://animations.bond/docs) to view the documentation.
 
 ## Contributing
 
